@@ -5,3 +5,4 @@ img.thumbnail((400,400))
 img.save('thumbnail.jpg')
 
 print(img.size)
+print('hell')
