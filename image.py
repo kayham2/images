@@ -6,7 +6,7 @@ img.save('thumbnail.jpg')
 
 print(img.size)
 <<<<<<< HEAD
-print('hell')
+print('hell00000')
 =======
 print('hello')
 >>>>>>> 53bb1531962d050772628832c78eaaf6897cba26
